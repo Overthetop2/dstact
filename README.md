@@ -11,3 +11,6 @@ To copy a Discord user's ID right click on them and click "Copy ID"
 ## Examples 
 `dstact.exe 356096237414532383`  
 `dstact.exe 842761333917798486 446482922956862654 845926537576538066 212282059955406093`
+
+## Release
+A prebuilt exe is available for download in the releases section
